@@ -1,0 +1,9 @@
+Copyright (c) 2025 Leonardo
+
+This software's source code is publicly accessible for learning and non-commercial use only.
+
+You are free to view, study, and modify the code for personal use.
+
+However, any form of distribution, public sharing, commercial use, or publishing of this code or derivative works is prohibited without explicit prior written permission from the author.
+
+For permissions or inquiries, please contact me at: leonardo.contact.info@gmail.com
